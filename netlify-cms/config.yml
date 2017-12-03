@@ -1,7 +1,6 @@
 backend:
   name: github
-  repo: ajhaupt7/vue_cmsify # Change to your repo
-  url: http://vuecmsify.me
+  repo: Keidrych/vue_cmsify # Change to your repo
 
 media_folder: "static/uploads"
 
